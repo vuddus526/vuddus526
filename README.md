@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87C56B&height=220&section=header&text=BackEnd%20Developer%20Penguin&fontSize=60&fontColor=FFFFFF" />
 
-<div align=center, style="font-size:500px;">
+<div align=center, width=100>
     🛠Skill Stack🛠
 </div>
 
