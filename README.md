@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=백엔드 개발자%20펭귄&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=BackEnd Developer%20Penguin&fontSize=90" />
 
 <!--
 **vuddus526/vuddus526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
