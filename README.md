@@ -31,9 +31,7 @@
     Jquery, Json, JWT, AJAX, Apache Maven, Mybatis, Gradle <br>
     Bootstrap, JSP, Apach Tomcat, Apache Maven, Oracle, My Sql, AWS, Linux, MongoDB<br>
     GitHub, Gather, Discode, notion<br>
-</div>
-<br>
-<div align=center>
+    <br>
     <h2>⚙Tools⚙</h2>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-5468FF?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/PyCharm-77B829?style=flat-square&logo=PyCharm&logoColor=white"/>&nbsp;
