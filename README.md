@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87C56B&height=220&section=header&text=BackEnd%20Developer%20Penguin&fontSize=60&fontColor=FFFFFF" />
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Twitch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=Twitch&logoColor=white"/>
 <!--
 **vuddus526/vuddus526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
