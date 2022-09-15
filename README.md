@@ -7,8 +7,11 @@
     안녕하세요~ 어제보다 내일이 더 기대되는 백엔드 개발자 펭귄입니다🐧<br><br>
     자바와 스프링을 주로 다루며 다양한 기술을 배우고 익히는데 두려워하지 않습니다<br><br>
     처음 개발자가 되고자 다짐한 그 순간 항상 생각하며 공부해 나가겠습니다<br><br>
-    기술 블로그 : <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/><br>
-    카카오톡 : <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
+    <h5>Blog</h5>
+    <a href="https://vuddus526.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>https://vuddus526.tistory.com/<br>
+    <h5>Contact</h5>
+    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/><br>
+    
 </div>
 <br>
 <div align=center>
