@@ -11,7 +11,8 @@
 <br>
 <div align=center>
     <h2>🛠Skill Stack🛠</h2>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-13448F?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JAVA-006272?style=flat-square&logo=JAVA&logoColor=white"/>
 </div>
 <br>
 <div align=center>
