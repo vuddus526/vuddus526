@@ -11,7 +11,7 @@
 <br>
 <div align=center>
     <h2>🛠Skill Stack🛠</h2>
-    <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=Twitch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
 </div>
 <br>
 <div align=center>
