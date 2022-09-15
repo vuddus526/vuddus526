@@ -10,11 +10,13 @@
     <h2>✏Blog✏</h2>
     <a href="https://vuddus526.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat-square&logo=Tistory&logoColor=black"/></a>&nbsp;&nbsp;
     <a href="https://blog.naver.com/vuddus526"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp;&nbsp;
-    <a href=""><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a><br><br><br>
+    <a href=""><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a><br><br>
+    <br>
     <h2>📬Contact📬</h2>
     <img src="https://img.shields.io/badge/KakaoTalk_ID : vuddus526-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Naver_Email : vuddus526@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Google_Email : vuddus526@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br><br><br>
+    <img src="https://img.shields.io/badge/Google_Email : vuddus526@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br><br>
+    <br>
 </div>
 <div align=center>
     <h2>🛠Skill Stack🛠</h2>
