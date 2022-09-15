@@ -14,7 +14,7 @@
     <h5>Contact</h5>
     <img src="https://img.shields.io/badge/KakaoTalk_ID : vuddus526-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>&nbsp;
     <img src="https://img.shields.io/badge/Naver_Email : vuddus526@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Google_Email : vuddus526@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Google_Email : vuddus526@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;
 </div>
 <br>
 <div align=center>
