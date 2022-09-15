@@ -7,17 +7,16 @@
     안녕하세요~ 어제보다 내일이 더 기대되는 백엔드 개발자 펭귄입니다🐧<br><br>
     자바와 스프링을 주로 다루며 다양한 기술을 배우고 익히는데 두려워하지 않습니다<br><br>
     처음 개발자가 되고자 다짐한 그 순간 항상 생각하며 공부해 나가겠습니다<br><br>
-    <h3>Blog</h3>
+    <h2>✏Blog✏</h2>
     <a href="https://vuddus526.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat-square&logo=Tistory&logoColor=black"/></a>&nbsp;&nbsp;
     <a href="https://blog.naver.com/vuddus526"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp;&nbsp;
-    <a href=""><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
-    <br>
+    <a href=""><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a><br><br>
+    
     <h2>📬Contact📬</h2>
     <img src="https://img.shields.io/badge/KakaoTalk_ID : vuddus526-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Naver_Email : vuddus526@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Google_Email : vuddus526@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google_Email : vuddus526@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br><br>
 </div>
-<br>
 <div align=center>
     <h2>🛠Skill Stack🛠</h2>
     <img src="https://img.shields.io/badge/Python-13448F?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
