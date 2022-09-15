@@ -1,6 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87C56B&height=220&section=header&text=BackEnd%20Developer%20Penguin&fontSize=60&fontColor=FFFFFF" />
 
-🛠Tech Stack🛠
+<div align=center style="font-size:30px;">
+    🛠Tech Stack🛠
+</div>
+
 <div align=center>
     <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=Twitch&logoColor=white"/>
 </div>
