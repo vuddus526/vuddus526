@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-    <h2>🛠Skill Stack🛠</h2>
+    <h2>🛠Skills🛠</h2>
 </div>
 
 <div align=center>
