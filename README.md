@@ -1,7 +1,8 @@
 <div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=6FA8DC&height=220&section=header&text=BackEnd%20Developer%20Penguin&fontSize=60&fontColor=FFFFFF"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=55A1E7&height=220&section=header&text=BackEnd%20Developer%20Penguin&fontSize=60&fontColor=FFFFFF"/>
 </div>
-
+6FA8DC
+55a1e7
 <div align=center>
     <h2>🙌Introduction🙌</h2>
     안녕하세요~ 어제보다 내일이 더 기대되는 백엔드 개발자 펭귄입니다🐧<br><br>
