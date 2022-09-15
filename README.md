@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/><br>
     Jquery, Json, JWT, AJAX, Apache Maven, Mybatis, Gradle <br>
     Bootstrap, JSP, Apach Tomcat, Apache Maven, Oracle, My Sql, AWS, Linux, MongoDB<br>
-    GitHub, Gather, Discode, notion
+    GitHub, Gather, Discode, notion<br>
 </div>
 <br>
 <div align=center>
