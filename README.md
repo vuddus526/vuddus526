@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87C56B&height=220&section=header&text=BackEnd%20Developer%20Penguin&fontSize=60&fontColor=FFFFFF" />
 
-<div align=center style="font-size:30px;">
+<div align=center style="font-size:100px;">
     🛠Tech Stack🛠
 </div>
 
