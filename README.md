@@ -16,11 +16,11 @@
 </div>
 
 <div align=center>
-    <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=Twitch&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=Twitch&logoColor=white"/> -->
 </div>
 
 <div align=center>
-    <h2>⚙Tools🔩</h2>
+    <h2>⚙Tools⚙</h2>
 </div>
 
 <!--
