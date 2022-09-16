@@ -28,6 +28,14 @@
     <img src="https://img.shields.io/badge/HTML5-C71D23?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/JSON Web Tokens-A100FF?style=flat-square&logo=JSON Web Tokens&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
     Jquery, Json, JWT, AJAX, Apache Maven, Mybatis, Gradle <br>
     Bootstrap, JSP, Apach Tomcat, Apache Maven, Oracle, My Sql, AWS, Linux, MongoDB<br>
     GitHub, Gather, Discode, notion<br><br>
