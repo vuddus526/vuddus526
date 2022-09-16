@@ -44,10 +44,9 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp;
-    GitHub, Gather, Discode, notion<br><br>
+    <img src="https://img.shields.io/badge/Gather-5468FF?style=flat-square&logo=Gather&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>&nbsp;
     <br>
     <h2>⚙Tools⚙</h2>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-5468FF?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>&nbsp;
