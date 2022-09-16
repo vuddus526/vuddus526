@@ -32,11 +32,10 @@
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/JSON-FFFFFF?style=flat-square&logo=JSON&logoColor=black"/>&nbsp;
     <img src="https://img.shields.io/badge/AJAX-041E42?style=flat-square&logo=AJAX&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
-    Apache Maven, Mybatis, Gradle <br>
+    <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Mybatis-FF3633?style=flat-square&logo=Mybatis&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/JSP-8A8A8A?style=flat-square&logo=JSP&logoColor=white"/>&nbsp;
     Bootstrap, JSP, Apach Tomcat, Apache Maven, Oracle, My Sql, AWS, Linux, MongoDB<br>
     GitHub, Gather, Discode, notion<br><br>
     <br>
