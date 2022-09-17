@@ -10,7 +10,7 @@
     <h2>✏Blog✏</h2>
     <a href="https://vuddus526.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp;&nbsp;
     <a href="https://blog.naver.com/vuddus526"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp;&nbsp;
-    <a href="www.notion.so/portfolio-of-penguin"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a><br><br>
+    <a href="https://portfolio-of-penguin.notion.site/PyeongYeon-Cho-fbbca696bf064f45aa16a408672a45e7"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a><br><br>
     <br>
     <h2>📬Contact📬</h2>
     <img src="https://img.shields.io/badge/KakaoTalk_ID : vuddus526-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>&nbsp;&nbsp;
