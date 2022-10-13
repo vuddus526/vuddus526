@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/JAVA-006272?style=flat-square&logo=JAVA&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Spring-13C100?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/JPA-8A8A8A?style=flat-square&logo=JSP&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/HTML5-C71D23?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
@@ -32,7 +33,7 @@
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/JSON-FFFFFF?style=flat-square&logo=JSON&logoColor=black"/>&nbsp;
     <img src="https://img.shields.io/badge/AJAX-041E42?style=flat-square&logo=AJAX&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Spring Security-#6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Mybatis-FF3633?style=flat-square&logo=Mybatis&logoColor=white"/>&nbsp;
